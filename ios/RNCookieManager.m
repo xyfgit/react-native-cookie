@@ -1,6 +1,6 @@
 
 #import "RNCookieManager.h"
-#import "RCTConvert.h"
+#import <React/RCTConvert.h>
 
 @implementation RNCookieManager
 
