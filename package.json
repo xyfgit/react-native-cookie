@@ -1,6 +1,6 @@
 {
     "name": "@bitscheme/react-native-cookie",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "A cookie manager module for react-native",
     "repository": {
         "type": "git",
@@ -15,12 +15,12 @@
         "android"
     ],
     "scripts": {
-      "publish": "git push origin --tags && npm run changelog && git push origin",
-      "release:pre": "npm version prerelease && npm publish --tag pre --access public",
-      "release:patch": "npm version patch && npm publish --access public",
-      "release:minor": "npm version minor && npm publish --access public",
-      "release:major": "npm version major && npm publish --access public",      
-      "lint": "eslint ./"
+        "publish": "git push origin --tags && npm run changelog && git push origin",
+        "release:pre": "npm version prerelease && npm publish --tag pre --access public",
+        "release:patch": "npm version patch && npm publish --access public",
+        "release:minor": "npm version minor && npm publish --access public",
+        "release:major": "npm version major && npm publish --access public",
+        "lint": "eslint ./"
     },
     "dependencies": {
         "cookie": "^0.3.1"
