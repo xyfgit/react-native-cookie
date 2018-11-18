@@ -1,6 +1,6 @@
 {
     "name": "@bitscheme/react-native-cookie",
-    "version": "0.1.4",
+    "version": "0.1.5",
     "description": "A cookie manager module for react-native",
     "repository": {
         "type": "git",
