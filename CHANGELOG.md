@@ -1,3 +1,9 @@
+#### 0.1.5 (2018-11-18)
+
+##### Bug Fixes
+
+*  import syntax ([26cff143](https://github.com/@bitscheme/react-native-cookie/commit/26cff143143d8e67c082b0b076a3c4eabc2517bc))
+
 #### 0.1.4 (2018-11-18)
 
 ##### Chores
